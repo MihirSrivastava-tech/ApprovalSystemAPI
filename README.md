@@ -1,4 +1,5 @@
 # ApprovalSystemAPI
+<img src="https://github.com/MihirSrivastava-tech/ApprovalSystemAPI/blob/main/logo.jpg" width="200" />
 ## About This Project
 
 Industries that operate with PLC (Programmable Logic Controller) and SCADA (Supervisory Control and Data Acquisition) systems often need to bypass specific protection logic temporarily, for maintenance or operational flexibility. Traditionally, these bypasses require manual record-keeping using paper or registers, along with a time-consuming approval process from the operations department. This project provides a streamlined digital solution.
