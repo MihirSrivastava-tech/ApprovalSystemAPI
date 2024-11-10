@@ -10,10 +10,14 @@ This API system, developed using MongoDB Atlas, ExpressJS, and NodeJS, enables i
 
 ## HOW TO INSTALL
 Clone this repository and run ```npm install```
-Now run ```npm start``` to run server.js and it will run on ```http://localhost:4000```
+Now run ```npm start``` to run server.js and it will run on ```http://localhost:<PORT>```
+> Add ```.env``` in your system and configure it by using ```PORT``` for your Port number and ```MONGO_URI``` to your own **MongoDB Atlas URI**.
+
 ### How to change the MongoDB Model Schema
 In **models** folder ```protReq.js``` contains the MongoDB model Schema. Change it accordingly to your own need and add those fields in the controllers wherever necessary.
+
 ### Routes
+
 #### GET ALL PROTECTION REQUEST
 ```/protectionrequest```
 
